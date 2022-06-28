@@ -1,7 +1,7 @@
 # L2_NLP_pipeline_pytorch
 In this exercise, you are expected to construct a training pipeline based on pytorch and train on the glue-sst2, a sentiment analysis task. 
 We have provided dataset in data/.
-You are expectoed to complete .py files as follows.
+You are expected to complete .py files as follows.
 ## main.py
 Some necessary module are as follows.   
 1.batchify data   
